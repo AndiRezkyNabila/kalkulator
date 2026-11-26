@@ -14,3 +14,6 @@ Dibuat oleh: Andi Rezky Nabila
 
 - Penjumlahan, pengurangan, perkalian, dan pembagian
 - Perpangkatan
+- Modulus
+- Akar kuadrat
+- Nilai maksimum
