@@ -1,5 +1,5 @@
 # kalkulator.py - Kalkulator sederhana
-from utilitas import format_hasil, pangkat
+from utilitas import format_hasil, pangkat, modulus
 
 
 def tambah(a, b):
@@ -34,3 +34,4 @@ if __name__ == "__main__":
     print(format_hasil(":", 8, 2, bagi(8, 2)))
     print("Maksimum 9 dan 4 =", maksimum(9, 4))
     print(format_hasil("^", 2, 10, pangkat(2, 10)))
+    print(format_hasil("%", 17, 5, modulus(17, 5)))
