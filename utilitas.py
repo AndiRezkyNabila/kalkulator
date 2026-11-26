@@ -10,4 +10,6 @@ def pangkat(a, b):
 
 
 def modulus(a, b):
+    if b == 0:
+        return "Error: modulus dengan nol"
     return a % b
