@@ -1,4 +1,4 @@
-# Kalkulator Sederhana
+# Kalkulator Pintar (versi Siti)
 
 Proyek latihan praktikum Git (kelompok Informatika).
 
