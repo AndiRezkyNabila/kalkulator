@@ -1,6 +1,6 @@
 # Kalkulator Sederhana
 
-Proyek latihan praktikum Git.
+Proyek latihan praktikum Git (kelompok Informatika).
 
 ## Cara Menjalankan
 
