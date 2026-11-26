@@ -13,3 +13,4 @@ Dibuat oleh: Andi Rezky Nabila
 ## Fitur
 
 - Penjumlahan, pengurangan, perkalian, dan pembagian
+- Perpangkatan
