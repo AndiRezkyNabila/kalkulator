@@ -1,4 +1,4 @@
-# Kalkulator Pintar (versi Andi)
+# Kalkulator Pintar
 
 Proyek latihan praktikum Git (kelompok Informatika).
 
