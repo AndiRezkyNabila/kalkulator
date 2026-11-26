@@ -1,5 +1,5 @@
 # kalkulator.py - Kalkulator sederhana
-from bantuan import format_hasil
+from utilitas import format_hasil
 
 
 def tambah(a, b):
