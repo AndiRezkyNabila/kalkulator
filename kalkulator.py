@@ -20,6 +20,12 @@ def bagi(a, b):
     return round(a / b, 2)
 
 
+def akar(a):
+    if a < 0:
+        return "Error: akar bilangan negatif"
+    return round(a ** 0.5, 2)
+
+
 def maksimum(a, b):
     if a > b:
         return a
@@ -35,3 +41,4 @@ if __name__ == "__main__":
     print("Maksimum 9 dan 4 =", maksimum(9, 4))
     print(format_hasil("^", 2, 10, pangkat(2, 10)))
     print(format_hasil("%", 17, 5, modulus(17, 5)))
+    print("akar 16 =", akar(16))
